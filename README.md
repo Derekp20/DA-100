@@ -1,4 +1,6 @@
 # DA-100
-Copy of files used for the DA-100 until these are correctly posted on the Microsoft Learning Site
+FIles for use with course DA-100 Analyzing Data with Power BI
 
-You will also need the AdventureworksDW2020.bak file, and copy it to the DatabaseBackup folder. (It was too big to upload to Github in one go!)
+Lab-Instructions.zip contains the instructions as html files with separate image files
+
+AllFiles.zip contains a copy of all the files needed to complete the exercises.
